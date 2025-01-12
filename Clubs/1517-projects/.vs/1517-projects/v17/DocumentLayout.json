@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\pages\\introduction.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\introduction.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\pages\\query.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\query.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\pages\\crud.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\crud.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\pages\\privacy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\privacy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRUD.razor",
+              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\CRUD.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\CRUD.razor",
+              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\CRUD.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\CRUD.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T02:51:42.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Introduction.razor",
+              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Introduction.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Introduction.razor",
+              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Introduction.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Introduction.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T02:50:17.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T02:11:36.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T02:11:12.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.razor",
+              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Privacy.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Privacy.razor",
+              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Privacy.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Privacy.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T00:51:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Query.razor",
+              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Query.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Query.razor",
+              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Query.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Query.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T00:46:55.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T00:45:45.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
