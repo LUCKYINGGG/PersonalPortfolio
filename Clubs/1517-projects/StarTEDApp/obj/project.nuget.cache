@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RcHcm1gDtpM=",
+  "dgSpecHash": "b+UoCQ9T9qs=",
   "success": true,
-  "projectFilePath": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\StarTEDApp.csproj",
+  "projectFilePath": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\StarTEDApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yingt\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\yingt\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

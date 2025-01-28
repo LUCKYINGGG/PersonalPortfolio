@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zHPjvAlqDvjqpjo5kU/bRgFPApAtCnJ28tq5FoQ63fI=",
+  "Hash": "B4mO/vlqPfD/g8DJ+THAtCkd3QH1SYDmvUekisOqxWk=",
   "Source": "StarTEDApp",
   "BasePath": "_content/StarTEDApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "StarTEDApp\\wwwroot",
       "Source": "StarTEDApp",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\",
       "BasePath": "_content/StarTEDApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StarTEDApp.styles.css",
+      "Identity": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StarTEDApp.styles.css",
       "SourceId": "StarTEDApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/StarTEDApp",
       "RelativePath": "StarTEDApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "fpbFxOke2zcycvhNFYNZRgJaUXX+uaLN1akz0aHuNpA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StarTEDApp.styles.css"
+      "OriginalItemSpec": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StarTEDApp.styles.css"
     },
     {
-      "Identity": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StarTEDApp.bundle.scp.css",
+      "Identity": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StarTEDApp.bundle.scp.css",
       "SourceId": "StarTEDApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/StarTEDApp",
       "RelativePath": "StarTEDApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "NaPIQsRCMasZXLoINbpf/bXD8pVt4xsixYsmY8iWL/s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StarTEDApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StarTEDApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\app.css",
+      "Identity": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\app.css",
       "SourceId": "StarTEDApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\",
       "BasePath": "_content/StarTEDApp",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "StarTEDApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\",
       "BasePath": "_content/StarTEDApp",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "StarTEDApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\",
       "BasePath": "_content/StarTEDApp",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\favicon.png",
+      "Identity": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\favicon.png",
       "SourceId": "StarTEDApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\",
       "BasePath": "_content/StarTEDApp",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\A02ClubERD.png",
+      "Identity": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\A02ClubERD.png",
       "SourceId": "StarTEDApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\",
       "BasePath": "_content/StarTEDApp",
       "RelativePath": "img/A02ClubERD#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\img\\A02ClubERD.png"
     },
     {
-      "Identity": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\githubLogo.png",
+      "Identity": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\githubLogo.png",
       "SourceId": "StarTEDApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\",
       "BasePath": "_content/StarTEDApp",
       "RelativePath": "img/githubLogo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\img\\githubLogo.png"
     },
     {
-      "Identity": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\linkedInLogo.png",
+      "Identity": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\linkedInLogo.png",
       "SourceId": "StarTEDApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\",
       "BasePath": "_content/StarTEDApp",
       "RelativePath": "img/linkedInLogo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\img\\linkedInLogo.png"
     },
     {
-      "Identity": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\logoCat.webp",
+      "Identity": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\logoCat.webp",
       "SourceId": "StarTEDApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\",
       "BasePath": "_content/StarTEDApp",
       "RelativePath": "img/logoCat#[.{fingerprint}]?.webp",
       "AssetKind": "All",
@@ -1260,7 +1260,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\app.css",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1297,7 +1297,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\app.css",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1342,7 +1342,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1387,7 +1387,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1424,7 +1424,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1469,7 +1469,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1506,7 +1506,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1551,7 +1551,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1588,7 +1588,7 @@
     },
     {
       "Route": "img/A02ClubERD.3d1940x2y5.png",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\A02ClubERD.png",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\A02ClubERD.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1633,7 +1633,7 @@
     },
     {
       "Route": "img/A02ClubERD.png",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\A02ClubERD.png",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\A02ClubERD.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1670,7 +1670,7 @@
     },
     {
       "Route": "img/githubLogo.png",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\githubLogo.png",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\githubLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1707,7 +1707,7 @@
     },
     {
       "Route": "img/githubLogo.vjow7rz08v.png",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\githubLogo.png",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\githubLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1752,7 +1752,7 @@
     },
     {
       "Route": "img/linkedInLogo.0miy0tw1iy.png",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\linkedInLogo.png",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\linkedInLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1797,7 +1797,7 @@
     },
     {
       "Route": "img/linkedInLogo.png",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\linkedInLogo.png",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\linkedInLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1834,7 +1834,7 @@
     },
     {
       "Route": "img/logoCat.nubk0iad5o.webp",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\logoCat.webp",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\logoCat.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1879,7 +1879,7 @@
     },
     {
       "Route": "img/logoCat.webp",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\wwwroot\\img\\logoCat.webp",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\wwwroot\\img\\logoCat.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1916,7 +1916,7 @@
     },
     {
       "Route": "StarTEDApp.2bf09k5unb.styles.css",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StarTEDApp.styles.css",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StarTEDApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1965,7 +1965,7 @@
     },
     {
       "Route": "StarTEDApp.54e7shqh3p.bundle.scp.css",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StarTEDApp.bundle.scp.css",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StarTEDApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2010,7 +2010,7 @@
     },
     {
       "Route": "StarTEDApp.bundle.scp.css",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StarTEDApp.bundle.scp.css",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StarTEDApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2047,7 +2047,7 @@
     },
     {
       "Route": "StarTEDApp.styles.css",
-      "AssetFile": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StarTEDApp.styles.css",
+      "AssetFile": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StarTEDApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

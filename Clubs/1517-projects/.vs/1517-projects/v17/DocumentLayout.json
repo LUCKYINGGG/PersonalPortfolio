@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\",
+  "WorkspaceRootPath": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\pages\\introduction.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\introduction.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\github-personalportfolio\\personalportfile\\clubs\\1517-projects\\startedapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\pages\\query.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\github-personalportfolio\\personalportfile\\clubs\\1517-projects\\startedapp\\components\\pages\\query.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\query.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\pages\\crud.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\github-personalportfolio\\personalportfile\\clubs\\1517-projects\\startedapp\\components\\pages\\crud.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\crud.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\github-personalportfolio\\personalportfile\\clubs\\1517-projects\\startedapp\\components\\pages\\introduction.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\introduction.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\github-personalportfolio\\personalportfile\\clubs\\1517-projects\\startedapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\github-personalportfolio\\personalportfile\\clubs\\1517-projects\\startedapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\github-personalportfolio\\personalportfile\\clubs\\1517-projects\\startedapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\cpsc1517\\1517-projects\\1517-sep-2024-a01-project-luckyinggg\\1517-projects\\startedapp\\components\\pages\\privacy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|c:\\github-personalportfolio\\personalportfile\\clubs\\1517-projects\\startedapp\\components\\pages\\privacy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22517BE5-C4C8-4C95-85D5-9DB1BF63A9F9}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\privacy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,94 +58,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CRUD.razor",
-              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\CRUD.razor",
-              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\CRUD.razor",
-              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\CRUD.razor",
-              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\CRUD.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-10T02:51:42.728Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StarTEDApp\\appsettings.json",
+              "ToolTip": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\appsettings.json",
+              "RelativeToolTip": "StarTEDApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T01:03:21.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Introduction.razor",
-              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Introduction.razor",
-              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Introduction.razor",
-              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Introduction.razor",
-              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Introduction.razor",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CRUD.razor",
+              "DocumentMoniker": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Pages\\CRUD.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\CRUD.razor",
+              "ToolTip": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Pages\\CRUD.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\CRUD.razor",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-10T02:50:17.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T02:51:42.728Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "StarTEDApp\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "Introduction.razor",
+              "DocumentMoniker": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Pages\\Introduction.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Introduction.razor",
+              "ToolTip": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Pages\\Introduction.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Introduction.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-10T02:11:36.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T02:50:17.378Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-10T02:11:12.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T02:11:36.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T02:11:12.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Privacy.razor",
-              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Privacy.razor",
+              "DocumentMoniker": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Pages\\Privacy.razor",
               "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Privacy.razor",
-              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Privacy.razor",
+              "ToolTip": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Pages\\Privacy.razor",
               "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Privacy.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-10T00:51:48.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T00:51:48.209Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Query.razor",
-              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Query.razor",
+              "DocumentMoniker": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Pages\\Query.razor",
               "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Query.razor",
-              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Pages\\Query.razor",
+              "ToolTip": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Pages\\Query.razor",
               "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Query.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-10T00:46:55.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T00:46:55.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "StarTEDApp\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\CPSC1517\\1517-projects\\1517-sep-2024-A01-project-LUCKYINGGG\\1517-projects\\StarTEDApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\GitHub-PersonalPortfolio\\PersonalPortfile\\Clubs\\1517-projects\\StarTEDApp\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "StarTEDApp\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-10T00:45:45.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T00:45:45.334Z"
             }
           ]
         }

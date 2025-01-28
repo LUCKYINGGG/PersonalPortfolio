@@ -11,3 +11,16 @@ C:\CPSC1517\1517-projects\1517-sep-2024-A01-project-LUCKYINGGG\1517-projects\Sta
 C:\CPSC1517\1517-projects\1517-sep-2024-A01-project-LUCKYINGGG\1517-projects\StarTEDSystem\obj\Debug\net8.0\refint\StarTEDSystem.dll
 C:\CPSC1517\1517-projects\1517-sep-2024-A01-project-LUCKYINGGG\1517-projects\StarTEDSystem\obj\Debug\net8.0\StarTEDSystem.pdb
 C:\CPSC1517\1517-projects\1517-sep-2024-A01-project-LUCKYINGGG\1517-projects\StarTEDSystem\obj\Debug\net8.0\ref\StarTEDSystem.dll
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\bin\Debug\net8.0\StarTEDSystem.deps.json
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\bin\Debug\net8.0\StarTEDSystem.dll
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\bin\Debug\net8.0\StarTEDSystem.pdb
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\obj\Debug\net8.0\StarTEDSystem.csproj.AssemblyReference.cache
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\obj\Debug\net8.0\StarTEDSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\obj\Debug\net8.0\StarTEDSystem.AssemblyInfoInputs.cache
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\obj\Debug\net8.0\StarTEDSystem.AssemblyInfo.cs
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\obj\Debug\net8.0\StarTEDSystem.csproj.CoreCompileInputs.cache
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\obj\Debug\net8.0\StarTEDSystem.sourcelink.json
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\obj\Debug\net8.0\StarTEDSystem.dll
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\obj\Debug\net8.0\refint\StarTEDSystem.dll
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\obj\Debug\net8.0\StarTEDSystem.pdb
+C:\GitHub-PersonalPortfolio\PersonalPortfile\Clubs\1517-projects\StarTEDSystem\obj\Debug\net8.0\ref\StarTEDSystem.dll
